@@ -1,5 +1,6 @@
 ### Hi there 👋
 <img src="https://badge.mediaplus.ma/darkblue/mlachheb" alt="mlachheb's 42 stats" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohamedamine456)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **mohamedamine456/mohamedamine456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
