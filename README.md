@@ -1,6 +1,5 @@
 ### Hi there 👋
 <img src="https://badge.mediaplus.ma/darkblue/mlachheb" alt="mlachheb's 42 stats" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamine456)](https://github.com/mohamedamine456/github-readme-stats)
 <!--
 **mohamedamine456/mohamedamine456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
