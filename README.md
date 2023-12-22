@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Mohamed Amine </h1>
 
-- 👨‍💻 I'm a Software Engineering at BCG (Boston Consuting Group).
+- 👨‍💻 I'm a Software Engineer at BCG (Boston Consuting Group).
 - 🔭 I’m currently working with react-native and django.
 - 🏠 Living in Casablanca.
 <!-- - 👯 I’m looking to collaborate on ...
