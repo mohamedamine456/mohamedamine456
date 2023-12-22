@@ -1,9 +1,8 @@
 <h1 align="center"> Hi 👋, I'm Mohamed Amine </h1>
 
-- 👨‍💻 I'm a Software Engineering Student [@1337-Benguerir (42 Network)](https://1337.ma/en/).
-- 🔭 I’m currently working on [webserv](https://github.com/mohamedamine456/Webserv1).
-- 🌱 I’m currently learning HTTP Protocol.
-- 🏠 Living in [Salé](https://en.wikipedia.org/wiki/Sal%C3%A9).
+- 👨‍💻 I'm a Software Engineering at BCG (Boston Consuting Group).
+- 🔭 I’m currently working with react-native and django.
+- 🏠 Living in Casablanca.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
